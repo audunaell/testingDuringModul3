@@ -39,5 +39,22 @@ namespace Modul3Oblig1Tests
 
             Assert.AreEqual(expectedDescription, actualDescription);
         }
+
+        [TestMethod]
+        public void TestSomeFields()
+        {
+            var p = new Person
+            {
+                Id = 99,
+                LastName = "SirCatsalot",
+                BirthYear = 1200,
+                Mother = new Person() { Id = 43, FirstName = "Miss Mjau" },
+            };
+
+            var actualDescription = p.GetDescription();
+            var expectedDescription = "SirCatsalot (Id=99) Født: 1200 Mor: Miss Mjau (Id=43)";
+
+            Assert.AreEqual(expectedDescription, actualDescription);
+        }
     }
 }

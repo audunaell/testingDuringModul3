@@ -5737,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\modul3Oblig1\\Modul3Oblig1Tests\\Modul3Oblig1Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\testingDuringModul3\\modul3Oblig1\\Modul3Oblig1Tests\\Modul3Oblig1Tests.csproj",
       "projectName": "Modul3Oblig1Tests",
-      "projectPath": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\modul3Oblig1\\Modul3Oblig1Tests\\Modul3Oblig1Tests.csproj",
+      "projectPath": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\testingDuringModul3\\modul3Oblig1\\Modul3Oblig1Tests\\Modul3Oblig1Tests.csproj",
       "packagesPath": "C:\\Users\\Andreas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\modul3Oblig1\\Modul3Oblig1Tests\\obj\\",
+      "outputPath": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\testingDuringModul3\\modul3Oblig1\\Modul3Oblig1Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andreas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5757,8 +5757,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\modul3Oblig1\\modul3Oblig1\\modul3Oblig1.csproj": {
-              "projectPath": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\modul3Oblig1\\modul3Oblig1\\modul3Oblig1.csproj"
+            "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\testingDuringModul3\\modul3Oblig1\\modul3Oblig1\\modul3Oblig1.csproj": {
+              "projectPath": "C:\\Users\\Andreas\\Desktop\\Get a saker\\modul 3\\testingDuringModul3\\modul3Oblig1\\modul3Oblig1\\modul3Oblig1.csproj"
             }
           }
         }
