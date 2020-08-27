@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SimpleChess/1.0.0": {
+        "runtime": {
+          "SimpleChess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleChess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.deps.json
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.json
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.dev.json
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.pdb
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.csprojAssemblyReference.cache
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfoInputs.cache
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfo.cs
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.pdb
+C:\Users\Andreas\Desktop\Get a saker\modul 3\oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.genruntimeconfig.cache
