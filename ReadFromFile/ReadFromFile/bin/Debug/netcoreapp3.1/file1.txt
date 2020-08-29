@@ -1,0 +1,4 @@
+﻿Linje 1
+Enda en linja
+Og her var linje 3
+Hva med linje 4?
